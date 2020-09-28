@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwwMAGKQFxkoCCJ9tjcbPQ4z4CX5J2VYKrrN3BdXjxHPbT1Pjfq/4NBjRbw4Joho3hOYKVJr2DQze8p5U2DxfA==",
+  "success": true,
+  "projectFilePath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/chewyvang/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/chewyvang/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
