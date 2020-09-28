@@ -1,0 +1,12 @@
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
