@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {}
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
         "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/obj/",
+        "outputPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
         ],

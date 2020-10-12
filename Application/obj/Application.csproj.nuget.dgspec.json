@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj": {}
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj": {
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj",
+        "projectUniqueName": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj",
+        "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Application/Application.csproj",
         "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/obj/",
+        "outputPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Application/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
         ],
@@ -25,11 +28,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
-                "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj"
+              "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {
+                "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj"
               },
-              "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj"
+              "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Persistence/Persistence.csproj"
               }
             }
           }
@@ -64,15 +67,18 @@
         }
       }
     },
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
         "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/obj/",
+        "outputPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
         ],
@@ -117,15 +123,18 @@
         }
       }
     },
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj": {
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj",
+        "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Persistence/Persistence.csproj",
         "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/",
+        "outputPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Persistence/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
         ],
@@ -138,8 +147,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
-                "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj"
+              "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {
+                "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj"
               }
             }
           }
@@ -153,6 +162,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
