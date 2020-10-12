@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj": {}
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
+    "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj",
-        "packagesPath": "/Users/johnpiapian/.nuget/packages/",
-        "outputPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/obj/",
+        "projectPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
+        "packagesPath": "/Users/chewyvang/.nuget/packages/",
+        "outputPath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/johnpiapian/.nuget/NuGet/NuGet.Config"
+          "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

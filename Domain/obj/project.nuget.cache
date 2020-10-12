@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "URGC8SpcuMqE0L0XyecT0+xl4ara9nCmI83UVRV2pz2P5GmsDzuV3/zbcAROpdnX0pOW111JhQbeGA3CW30Vaw==",
+  "dgSpecHash": "bzMecTRZ62sFiO7h6khHPwljmc5pHR8kpGodNndNpZ5iQHpGStlwdPPD40FFKEd7+Tn3I+gMRQND4TA9jJTtTQ==",
   "success": true,
-  "projectFilePath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+  "projectFilePath": "/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/johnpiapian/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/johnpiapian/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/chewyvang/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/chewyvang/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -16,3 +16,12 @@
 /Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
 /Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.dll
 /Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.pdb
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/chewyvang/Desktop/Vang/Chueseng-Vang/Domain/obj/Debug/netstandard2.0/Domain.pdb
