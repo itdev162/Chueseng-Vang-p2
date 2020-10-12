@@ -22,12 +22,25 @@ namespace API
             Configuration = configuration;
         }
 
+        private readonly string CorsPolicy = "CorsPolicy";
+
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // services.AddControllers();
+            //services.AddControllers();
+
+            services.AddCors(opt =>
+            {
+               opt.AddPolicy(CorsPolicy, policybuilder =>
+               {
+                    policybuilder
+                        .WithOrigins("http://localhost:3000")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+               });
+            });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
@@ -45,16 +58,16 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseHttpsRedirection();
 
+            app.UseCors(CorsPolicy);
             app.UseRouting();
-
             app.UseAuthorization();
-
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
-        } 
+        }
     }
 }
+ 
