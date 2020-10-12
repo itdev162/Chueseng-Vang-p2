@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj": {}
+    "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj": {
+    "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj",
+        "projectUniqueName": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj",
-        "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/obj/",
+        "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/Application.csproj",
+        "packagesPath": "/Users/johnpiapian/.nuget/packages/",
+        "outputPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
+          "/Users/johnpiapian/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
-                "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj"
+              "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
+                "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj"
               },
-              "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj"
+              "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Persistence/Persistence.csproj"
               }
             }
           }
@@ -64,17 +64,17 @@
         }
       }
     },
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
+    "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj",
-        "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/obj/",
+        "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj",
+        "packagesPath": "/Users/johnpiapian/.nuget/packages/",
+        "outputPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
+          "/Users/johnpiapian/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -117,17 +117,17 @@
         }
       }
     },
-    "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj": {
+    "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/Persistence.csproj",
-        "packagesPath": "/Users/chewyvang/.nuget/packages/",
-        "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Persistence/obj/",
+        "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/johnpiapian/.nuget/packages/",
+        "outputPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
+          "/Users/johnpiapian/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
-                "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Domain/Domain.csproj"
+              "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj": {
+                "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Domain/Domain.csproj"
               }
             }
           }
@@ -153,6 +153,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
