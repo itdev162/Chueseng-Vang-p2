@@ -52,7 +52,7 @@ namespace API.Controllers
         /// <returns>A new post</returns>
         [HttpPost]
         public ActionResult<Post> Create([FromBody]Post request)
-        {
+        {    
             var post = new Post
             {
                 Id = request.Id,

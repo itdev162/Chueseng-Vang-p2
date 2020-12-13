@@ -114,6 +114,11 @@ class App extends React.Component {
                           deletePost={this.deletePost}
                           editPost={this.editPost}
                           />
+                          <br></br>
+                        <footer>
+                        <p>Author: ChickenV<br></br>
+                        <a href="mailto:Chicken@mail.com">Chicken21@mail.com</a></p>
+        </footer>
               </Route>
               <Route path="/Menu">
                 <Menu></Menu>
