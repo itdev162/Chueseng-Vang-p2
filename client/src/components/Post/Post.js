@@ -1,8 +1,8 @@
-import React from 'react';
+import React from 'react'; 
 
 const Post = props => {
     const {post } = props;
-
+                                ///displays all post/reviews
     return(
         
         <div>

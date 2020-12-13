@@ -1,12 +1,12 @@
 import React from 'react';
 
 const Home = props => {
-
-    return (
-        <div className = "home">
+                                                ///Home page    only the front end of the page 
+    return ( 
+        <div className = "home">  
             <h3>Local fast-food chain featuring fried chicken, fish & shrimp, plus wings.</h3>
             <br></br>
-            <body>
+            <body>                                                              
                 <h2>Service Options</h2>
                 <h3>Curbside pickup, Take-out, Dine-In</h3>
                 <br></br>

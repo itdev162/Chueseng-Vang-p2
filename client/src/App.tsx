@@ -10,7 +10,7 @@ import Menu from './components/Other/Menu';
 import './App.css';
 
 class App extends React.Component {
-
+ 
   state = {
     posts: [],
     post: null
@@ -27,14 +27,14 @@ class App extends React.Component {
       console.error(`Error fetching data: ${error}`);
     })
   }
-
+                                      ///display the posts/reviews 
   viewPost = (post) => {
     console.log(`view ${post.title}`);
     this.setState({ 
       post: post 
     });
   }
-
+                                      ///deletes the post/review
   deletePost = post => {
     axios 
       .delete(`http://localhost:5000/api/posts/${post.id}`)
@@ -48,14 +48,14 @@ class App extends React.Component {
         console.error(`Error deleteing post: ${error}`);
       })
   };
-
+                                  ///edit a post/review
   editPost = post => {
     this.setState({
       post: post
     });
   };
 
-  onPostCreated = post => {
+  onPostCreated = post => {       ///create a post/review
     const newPosts = [...this.state.posts, post];
 
     this.setState({
@@ -63,7 +63,7 @@ class App extends React.Component {
     });
   };
 
-  onPostUpdated = post => {
+  onPostUpdated = post => {       //updates the post/review
     console.log('updated post: ', post);
     const newPosts = [...this.state.posts];
     const index = newPosts.findIndex(p => p.id === post.id);
@@ -77,11 +77,11 @@ class App extends React.Component {
 
   render() {
     const { posts, post } = this.state;
- 
-    return (
+                                            ///front end of the webpage
+    return (    
       <Router>
         <div className="App">
-          <header className="App-Header">Jay's Fish and Chicken</header>
+          <header className="App-Header">Jay's Fish and Chicken</header>  
           <nav>
             <Link to="/">Home</Link>
             <Link to="/write-review">Write a Review</Link>
@@ -118,7 +118,7 @@ class App extends React.Component {
                         <footer>
                         <p>Author: ChickenV<br></br>
                         <a href="mailto:Chicken@mail.com">Chicken21@mail.com</a></p>
-        </footer>
+                        </footer>
               </Route>
               <Route path="/Menu">
                 <Menu></Menu>

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import { useHistory } from 'react-router-dom';
 import slugify from 'slugify';
 import './styles.css';
@@ -9,7 +9,7 @@ const PostListItem = props => {
 
     const handleClickPost = post => {
         const slug = slugify(post.title, { lower: true});
-
+ 
         clickPost(post);
         history.push(`/posts/${slug}`);
     }

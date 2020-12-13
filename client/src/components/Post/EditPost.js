@@ -1,10 +1,10 @@
-import React, {useState} from 'react';
+import React, {useState} from 'react'; 
 import axios from 'axios';
 import moment from 'moment';
 import { useHistory } from 'react-router-dom';
 import './styles.css';
-
-const EditPost = ({post, onPostUpdated}) => {
+                                                    ///Editing a post/review page backend
+const EditPost = ({post, onPostUpdated}) => {       ///editing post/review method backend
     let history = useHistory();
     const [postData, setPostData] = useState({
         title: post.title,
@@ -21,7 +21,7 @@ const EditPost = ({post, onPostUpdated}) => {
         });
     };
 
-    const update = async () => {
+    const update = async () => {                    ///updates the page
         if(!title || !body){
             console.log('Title and body are required');
         } else {
@@ -55,11 +55,11 @@ const EditPost = ({post, onPostUpdated}) => {
             }
         }
     };
-
+                                                    ///Front end the page Edited page
     return (
         <body>
         <div className="form-container">
-            <h2>Edit Post</h2>
+            <h2>Edit a Review</h2>
             <input
                 name="title"
                 type="text"

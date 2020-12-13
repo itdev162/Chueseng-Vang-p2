@@ -2,8 +2,8 @@ import React from 'react';
 import './styles.css'
 
 const Menu = props => {
-
-    return (
+                                                //Menu page  only the Front end of the page 
+    return ( 
         <div className = "menu">
             <body>
             <img src="https://flagsandsigns.com/shop/images/A38187_Fried_Chicken_3x8-banner-sign.jpg" alt="Chicken-Banner" width="1380" height="150"></img>

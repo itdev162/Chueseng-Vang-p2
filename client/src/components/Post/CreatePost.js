@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'; 
 import axios from 'axios';
 import {v4 as uuidv4} from 'uuid';
 import moment from 'moment';
 import { useHistory } from 'react-router-dom';
 import './styles.css';
-
-const CreatePost = ({ onPostCreated }) => {
+                                                    //Creating a post/review page backend 
+const CreatePost = ({ onPostCreated }) => {         //creating a new post/review method backend
     let history = useHistory();
     const [postData, setPostData] = useState({
         title: '',
@@ -54,7 +54,7 @@ const CreatePost = ({ onPostCreated }) => {
             }
         }
     };
-
+                                                    ///front end of the page
     return (
         <body>
         <div className="form-container">
