@@ -84,7 +84,7 @@ class App extends React.Component {
           <header className="App-Header">Jay's Fish and Chicken</header>
           <nav>
             <Link to="/">Home</Link>
-            <Link to="/write-review">Write a review</Link>
+            <Link to="/write-review">Write a Review</Link>
             <Link to="/Review">Reviews</Link>
             <Link to="/Menu">Menu</Link>
           </nav>
