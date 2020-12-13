@@ -17,7 +17,7 @@ namespace Persistence
                     new Post() {Title = "Deborah M", Body = "Food is very tasty and affordable. My favorite food is the chicken Philly."},
                     new Post() {Title = "Joseph G", Body = "Great cod. The jumbo shrimp are delicious."},
                     new Post() {Title = "Emma T", Body = "Excellent food large portion of food for a greate price!!."},
-                    new Post() {Title = "Bob F", Body = "Great Food, Love the Chicken!!"},
+                 //   new Post() {Title = "Bob F", Body = "Great Food, Love the Chicken!!"},
                 };   
     
                 context.Posts.AddRange(seedPosts);

@@ -81,7 +81,7 @@ class App extends React.Component {
     return (
       <Router>
         <div className="App">
-          <header className="App-Header">Jays Fish and Chicken</header>
+          <header className="App-Header">Jay's Fish and Chicken</header>
           <nav>
             <Link to="/">Home</Link>
             <Link to="/write-review">Write a review</Link>
